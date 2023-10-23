@@ -73,7 +73,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: _data/img/TravisCircle-Small.png
+avatar: img/TravisCircle-Small.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
