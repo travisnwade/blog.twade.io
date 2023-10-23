@@ -40,9 +40,17 @@ Finding those little sidestreets in yourself can be amazing.
 * What makes you happy? Not the material, but your _soul_.
 * What is it that you want in life?
 
+I say this pretty frequently too, and I feel it's true:
+
+> How can you fully love someone else if you don't first love yourself?
+
+So, whatever it is, do what you gotta do to be happy with you.  First and foremost.  If you're already in a relationship, you need to communicate with your partner this need. If they're supportive, then they'll understand, and support you in your journey.
+
 ## The search for that person
 
-This search for that person isn't something you can rush either. And you need to be able to move past what doesn't fit, or what doesn't feel right in your _gut_. You need to trust your intuition. If it doesn't feel right, it probably isn't. And you really need to believe that. 
+This search for that person isn't something you can rush either. And you need to be able to move past what doesn't fit, or what doesn't feel right in your _gut_. You need to trust your intuition. If it doesn't feel right, it probably isn't. And you really need to believe that. You also need to not feel discouraged when someone of this caliper doesn't land in 6 weeks.  It _will_ take longer 99% of the time. Take your time, and it'll come.
+
+### Not all relationships are free from discomfort
 
 You also need to understand that the perfect relationship isn't one that's free of disagreement, fights and discomfort. ALL relationships have those aspects. After all, we're human and we're going to disagree. We're going to hurt each other at some point. There are so many factors that go into this and it's not always intentional. 
 
@@ -53,3 +61,17 @@ My partner and I do understand this.  It took a bit of learning on both of our p
 > Babe, I think I just need a little bit of time before I'm ready to chat.
 
 That doesn't mean I don't want to talk, it just means I'm not ready quite yet.  And that's OK.  Sometimes we need to simply collect ourselves, our emotions before we're ready to communicate _effectively_ and _respectfully_. We've all lashed out in emotion, and that rarely goes well. There's a time and place for that I feel, but when it comes to the person that you love, we all need to try out best to remember how much they mean to us when we communicate.
+
+### Be real and honest with people
+
+When you're out in the world meeting people and dating, be real. Be yourself.  Even if you think you're weird or different.  There's someone out there for everyone. I know that sounds a bit cliche, but it's true. When people call me weird, I just respond with, "Yep, I sure am and that's alright. I love it.". Seriously, _be yourself_.
+
+Putting on a front to impress someone, that usually (in my experience) only comes back in a bad way.  They build this perception of you that you put on when you were being someone you aren't. It can be a waste of time for everyone involved. Your time and their time. If you aren't a good fit for them, or the other way around. It almost always ends in someone's feelings getting hurt or worse, heartbreak. Do yourself and others a favor, don't waste their or your time being someone you're not. Be you.
+
+## In the end
+
+In the end, finding the right person for you, revolves around you being honest with yourself, loving yourself. The right person will land naturally, at some point. Don't be in a rush. Trust me, I've been the person to rush into relationships, and it never ended well. There were lessons learned however, many of them. We all make mistakes and especially if you're a person with a big and good heart, you'll find excuses to tell yourself to remain in a relationship that's not for you.  I've done it. I recognize that. 
+
+However, the relationship I'm in now, well I'll just say it's the best one I've ever had. And again, not because it's without our disagreements. There are plenty.  But over time, we've learned about each other and each person's specific needs. Whether we need a bit of time, our approach and how we come to a common understanding.  These are things that take time, and not something that can be rushed.
+
+You hear it all the time, relationships take work. And lots of it. And a steady stream of it.  But the best relationships are worth it, and you'll _want_ to put in that work.
