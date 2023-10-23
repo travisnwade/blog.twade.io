@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8eeb4d82-4c84-49f0-a86b-6d2d1b3493be/deploy-status)](https://app.netlify.com/sites/sage-lebkuchen-65afd8/deploys)
+
 This started off as a little side project I wanted to do.  I already had [another site](https://docs.twade.io) where I document
 frequent tasks I do that I can use as a reference point to look to, but also to serve as a place where
 others can go for information related to technical obstacles as well. 
