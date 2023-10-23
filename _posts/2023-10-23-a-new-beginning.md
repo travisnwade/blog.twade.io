@@ -1,8 +1,12 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: post
+title: A New Beginning
+date: 2023-10-23 11:23 -0400
+categories: [Blog]
+tags: [blog,post,general]
 ---
+
+# Getting started
 
 This started off as a little side project I wanted to do.  I already had [another site](https://docs.twade.io) where I document
 frequent tasks I do that I can use as a reference point to look to, but also to serve as a place where
