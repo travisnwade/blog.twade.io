@@ -89,11 +89,11 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: travisnwade/blog.twade.io_giscus
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
+    repo: 'travisnwade/blog.twade.io'
+    repo_id: 'R_kgDOKj_7WA'
+    category: 'blog-comments'
+    category_id: 'DIC_kwDOKj_7WM4CaX6p'
+    mapping: 'og:title'
     input_position: 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: 1
