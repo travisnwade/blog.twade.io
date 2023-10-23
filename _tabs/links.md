@@ -10,6 +10,5 @@ order: 5
 | Instagram | [Instagram](https://www.instagram.com/tn_wade/) |
 | Threads | [Threads](https://www.threads.net/@tn_wade) |
 | Venmo | [Venmo](https://go.twade.io/venmo) |
-| Email | [Email](socials@twade.io) |
 | CV | [CV](https://cv.twade.io/) |
 | Personal Wiki | [Personal Wiki](https://docs.twade.io/) |
