@@ -2,6 +2,8 @@
 layout: post
 title: Find you a partner who...
 date: 2023-10-23 12:17 -0400
+categories: [Relationships]
+tags: [relationships,partners,couples]
 ---
 
 Relationships are hard man...
